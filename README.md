@@ -67,6 +67,12 @@
 
 <h1>Connect with me</h1>
 
+<a href="https://twitter.com/ShuLad_py">
  <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/shubhamlad">
  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
+ <a href="https://medium.com/@ladshubham">
  <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />
+</a>
