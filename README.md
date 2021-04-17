@@ -57,9 +57,11 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shulapy&show_icons=true&theme=gotham" alt="Shubham Lad | Stats" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shulapy&theme=gotham" alt="Shubham Lad | Streak" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shulapy&layout=compact&theme=gotham)](https://github.com/shulapy)
+
 <h1></h1>
 
- ![Visitor Count](https://profile-counter.glitch.me/{shulapy}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{shulapy}/count.svg)
 
 <hr/>
 
