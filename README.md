@@ -29,7 +29,7 @@ Feel free to reach out if you want to discuss any of these!
 
 Let's connect and collaborate:
 
-- 📧 Email: shubhamlad1001@gmail.com
+- 📧 Email: shubhamlad1001+connect@gmail.com
 - 💼 LinkedIn: [shubhamlad](https://www.linkedin.com/in/shubhamlad/)
 - 🐦 Twitter: [ShuLaPy_](https://twitter.com/ShuLaPy_)
 - 🌐 Website: [shubhamlad.in](shubhamlad.in)
